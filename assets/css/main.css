@@ -3934,3 +3934,7 @@
 			opacity: 1;
 			visibility: visible;
 		}
+
+.inner .icons {
+	text-align: center;
+}
